@@ -1,0 +1,7 @@
+# Cloudflare Pages headers (ignored by GitHub Pages, which can't set custom headers)
+/*
+  X-Robots-Tag: noindex, nofollow, noarchive, nosnippet
+  X-Frame-Options: DENY
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: no-referrer
+  Permissions-Policy: geolocation=(), camera=(), microphone=()
